@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="12.729327839355589mm" height="12.739457140661397mm" viewBox="0 0 12.729327839355589 12.739457140661397" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Shape2DView" transform="translate(2.854531,6.369729) scale(1,-1)">
+<circle cx="3.5" cy="-2.409183963437e-15" r="6.25" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Shape2DView'</title>
+</g>
+<g id="Rectangle" transform="translate(2.854531,6.369729) scale(1,-1)">
+<rect fill="#ff0000" id="origin" width="1" height="1" x="0" y="0" />
+<title>b'Rectangle'</title>
+</g>
+</svg>

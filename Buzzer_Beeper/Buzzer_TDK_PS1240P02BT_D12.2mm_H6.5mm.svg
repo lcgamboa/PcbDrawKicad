@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="12.220154725781365mm" height="12.229878855034942mm" viewBox="0 0 12.220154725781365 12.229878855034942" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Shape2DView" transform="translate(3.600349,6.114939) scale(1,-1)">
+<circle cx="2.5" cy="-3.082081072377e-35" r="6.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="2.5" cy="0.0" r="1.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="2.5" cy="-3.082081072377e-35" r="6.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="2.5" cy="0.0" r="4.518518518519" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Shape2DView_nwe0004"  d="M 8.5 -3.082081072377e-35 L 8.4906847553974 -2.736997479800579e-35 L 8.462856166195307 -2.3962535136229702e-35 L 8.416864193049461 -2.064134226923112e-35 L 8.353287211707336 -1.7448162124313538e-35 L 8.272924739597531 -1.4423150794525564e-35 L 8.176787381434224 -1.1604349552491745e-35 L 8.066084120276509 -9.027206459337228e-36 L 7.942207113864972 -6.72413058475168e-36 L 7.806714187430354 -4.72408444413377e-36 L 7.661309243137397 -3.052219778155566e-36 L 7.507820832526496 -1.7295612550302146e-36 L 7.348179161417137 -7.727420731103748e-37 L 7.184391816449773 -1.9379478876810988e-37 L 7.018518518519 -1.7052238850388208e-47 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Shape2DView'</title>
+</g>
+<g id="Rectangle" transform="translate(3.600349,6.114939) scale(1,-1)">
+<rect fill="#ff0000" id="origin" width="1" height="1" x="0" y="0" />
+<title>b'Rectangle'</title>
+</g>
+</svg>

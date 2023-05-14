@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="7.489563051580024mm" height="1.6468541774819605mm" viewBox="0 0 7.489563051580024 1.6468541774819605" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Shape2DView" transform="translate(0.569782,1.073427) scale(1,-1)">
+<path id="Shape2DView_nwe0000"  d="M 6.349999999999993 -0.4999999999999992 A 0.5 0.5 0 0 1 6.35 0.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0001"  d="M 6.350000000000014 0.5000000000000008 A 0.5 0.5 0 0 1 6.34985 0.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0002"  d="M -4.970737533322833e-14 0.5000000000000008 A 0.5 0.5 0 1 1 9.76078e-14 -0.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0004"  d="M 1.8207657603852567e-13 -0.4999999999999992 C -0.19651152239149475 -0.49999999999999806 6.5462269494765355 -0.4999999999999984 6.349999999999991 -0.4999999999999992 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0005"  d="M 6.3500000000000165 0.5000000000000008 C 6.53318639973187 0.5000000000000013 1.5960371208196937 0.5000000000000019 0.32728200679395547 0.500000000000001 C 0.11060447165192165 0.5000000000000009 0.0015104693872404246 0.5000000000000012 -8.79296635503124e-14 0.5000000000000008 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Shape2DView'</title>
+</g>
+<g id="Rectangle" transform="translate(0.569782,1.073427) scale(1,-1)">
+<rect fill="#ff0000" id="origin" width="1" height="1" x="0" y="0" />
+<title>b'Rectangle'</title>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="3.603363051580024mm" height="1.5706541774819605mm" viewBox="0 0 3.603363051580024 1.5706541774819605" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Shape2DView" transform="translate(0.531682,1.035327) scale(1,-1)">
+<path id="Shape2DView_nwe0000"  d="M 2.5399999999999947 -0.4999999999999992 A 0.5 0.5 0 1 1 2.54 0.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0001"  d="M -4.970737533322833e-14 0.5000000000000008 A 0.5 0.5 0 1 1 9.76078e-14 -0.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0003"  d="M 1.8207657603852567e-13 -0.4999999999999992 C -0.07450358895359438 -0.4999999999999987 1.9311685003934205 -0.4999999999999988 2.4197828960189263 -0.4999999999999991 C 2.4598552640126155 -0.49999999999999906 2.499927632006303 -0.4999999999999993 2.539999999999992 -0.4999999999999991 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0004"  d="M 2.5400000000000054 0.5000000000000008 C 2.613822674930961 0.5000000000000007 0.6378205798732649 0.5000000000000013 0.13091280271758188 0.5000000000000009 C 0.08727520181169209 0.5000000000000008 0.0436376009058023 0.500000000000001 -8.748557434046234e-14 0.5000000000000009 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Shape2DView'</title>
+</g>
+<g id="Rectangle" transform="translate(0.531682,1.035327) scale(1,-1)">
+<rect fill="#ff0000" id="origin" width="1" height="1" x="0" y="0" />
+<title>b'Rectangle'</title>
+</g>
+</svg>

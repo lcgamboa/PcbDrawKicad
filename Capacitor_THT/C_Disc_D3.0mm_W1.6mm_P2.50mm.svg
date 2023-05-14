@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="3.0599999999999996mm" height="1.8599999999999999mm" viewBox="0 0 3.0599999999999996 1.8599999999999999" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Shape2DView" transform="translate(0.280000,1.030000) scale(1,-1)">
+<path id="Shape2DView_nwe0000"  d="M 2.553393455803273 -0.2442317319215174 A 0.25 0.25 0 0 1 2.55339 0.244232" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0001"  d="M -0.2499999999998257 -2.5934809855243657e-13 A 1.80625 1.80625 0 0 1 1.25 -0.8" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0002"  d="M 2.75 1.110223043626e-16 L 2.7123918682727357 1.110223043626e-16 L 2.6014533018536286 1.110223043626e-16 L 2.4227472237020446 1.110223043626e-16 L 2.1852347027881005 1.110223043626e-16 L 1.9008256086763375 1.110223043626e-16 L 1.583781400934472 1.110223043626e-16 L 1.2500000000000002 1.110223043626e-16 L 0.9162185990655287 1.110223043626e-16 L 0.5991743913236631 1.110223043626e-16 L 0.31476529721189994 1.110223043626e-16 L 0.07725277629795535 1.110223043626e-16 L -0.10145330185362855 1.110223043626e-16 L -0.21239186827273526 1.110223043626e-16 L -0.25 1.110223043626e-16 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0003"  d="M 1.2499999999999998 0.7999999999999998 A 1.80625 1.80625 0 0 1 -0.25 0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0004"  d="M -0.05339345580327292 0.2442317319215174 A 0.25 0.25 0 0 1 -0.0533935 -0.244232" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0006"  d="M 1.25 -0.7999999999999998 A 1.80625 1.80625 0 0 1 2.75 2.22045e-16" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0007"  d="M 2.7499999999999996 6.661338147750939e-16 A 1.80625 1.80625 0 0 1 1.25 0.8" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Shape2DView'</title>
+</g>
+<g id="Rectangle" transform="translate(0.280000,1.030000) scale(1,-1)">
+<rect fill="#ff0000" id="origin" width="1" height="1" x="0" y="0" />
+<title>b'Rectangle'</title>
+</g>
+</svg>

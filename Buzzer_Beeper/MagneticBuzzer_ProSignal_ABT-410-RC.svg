@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="12.220154725781365mm" height="12.229878855034942mm" viewBox="0 0 12.220154725781365 12.229878855034942" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Shape2DView" transform="translate(2.850349,6.114939) scale(1,-1)">
+<circle cx="3.25" cy="-6.241214171563e-36" r="6.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="3.25" cy="0.0" r="1.15" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="3.25" cy="-6.241214171563e-36" r="6.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="3.25" cy="0.0" r="5.7" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Shape2DView_nwe0004"  d="M 9.25 -6.241214171563002e-36 L 9.248113662967972 -5.5424198965955216e-36 L 9.242478373654546 -4.85241336508564e-36 L 9.233164999092509 -4.1798718095182084e-36 L 9.220290660370726 -3.533252830172188e-36 L 9.204017259768484 -2.9206880358899243e-36 L 9.184549444740409 -2.3498807843778908e-36 L 9.162132034355963 -1.828009308013931e-36 L 9.13704694055762 -1.3616364434102066e-36 L 9.1096096229546 -9.566270999349482e-37 L 9.080165121735266 -6.180745050742507e-37 L 9.04908371858655 -3.5023615414128118e-37 L 9.016756280186893 -1.5648026980244973e-37 L 8.983589342830992 -3.9243444723102003e-38 L 8.95 -1.0009503839295273e-48 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Shape2DView'</title>
+</g>
+<g id="Rectangle" transform="translate(2.850349,6.114939) scale(1,-1)">
+<rect fill="#ff0000" id="origin" width="1" height="1" x="0" y="0" />
+<title>b'Rectangle'</title>
+</g>
+</svg>

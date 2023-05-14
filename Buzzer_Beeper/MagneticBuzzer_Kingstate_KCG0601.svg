@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="6.721085099179751mm" height="6.726433370269217mm" viewBox="0 0 6.721085099179751 6.726433370269217" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Shape2DView" transform="translate(1.755192,3.363217) scale(1,-1)">
+<circle cx="1.6" cy="1.302756531207e-37" r="3.3" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="1.6" cy="0.0" r="1.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="1.6" cy="1.302756531207e-37" r="3.3" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="1.6" cy="0.0" r="3.135" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Shape2DView_nwe0004"  d="M 4.9 6.995126389694418e-52 L 4.898962514632386 -1.4545287952528372e-38 L 4.895863105510001 -2.882574587339741e-38 L 4.890740749500881 -4.266178871853681e-38 L 4.883659863203899 -5.587942022130986e-38 L 4.874709492872667 -6.83124209965208e-38 L 4.864002194607226 -7.980443884562623e-38 L 4.851672618895781 -9.02109549763496e-38 L 4.837875817306691 -9.94011014103458e-38 L 4.8227852926250305 -1.0725930672396011e-37 L 4.806590816954397 -1.1368674942593696e-37 L 4.789496045222603 -1.1860260069500978e-37 L 4.771715954102792 -1.2194504084922674e-37 L 4.7534741385570465 -1.2367203676431953e-37 L 4.735 -1.237618704646295e-37 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Shape2DView'</title>
+</g>
+<g id="Rectangle" transform="translate(1.755192,3.363217) scale(1,-1)">
+<rect fill="#ff0000" id="origin" width="1" height="1" x="0" y="0" />
+<title>b'Rectangle'</title>
+</g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="11.22000000000047mm" height="5.22000000000001mm" viewBox="0 0 11.22000000000047 5.22000000000001" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Shape2DView" transform="translate(3.110000,2.610000) scale(1,-1)">
+<path id="Shape2DView_nwe0000"  d="M -3.00000000000046 5.266898028821743e-13 A 7.3 7.3 0 0 1 2.5 -2.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0001"  d="M 8.0 -4.440892080918e-16 L 7.86210351700003 -4.440892080918e-16 L 7.455328773463306 -4.440892080918e-16 L 6.800073153574164 -4.440892080918e-16 L 5.929193910223035 -4.440892080918e-16 L 4.886360565146571 -4.440892080918e-16 L 3.72386513675973 -4.440892080918e-16 L 2.500000000000001 -4.440892080918e-16 L 1.2761348632402718 -4.440892080918e-16 L 0.11363943485343109 -4.440892080918e-16 L -0.9291939102230335 -4.440892080918e-16 L -1.8000731535741634 -4.440892080918e-16 L -2.4553287734633047 -4.440892080918e-16 L -2.8621035170000297 -4.440892080918e-16 L -3.0 -4.440892080918e-16 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0002"  d="M 2.499999999999998 2.5 A 7.3 7.3 0 0 1 -3 0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0003"  d="M 2.5 -2.5 A 7.3 7.3 0 0 1 8 0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0004"  d="M 8.0 -8.881784197001252e-16 A 7.3 7.3 0 0 1 2.5 2.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Shape2DView'</title>
+</g>
+<g id="Rectangle" transform="translate(3.110000,2.610000) scale(1,-1)">
+<rect fill="#ff0000" id="origin" width="1" height="1" x="0" y="0" />
+<title>b'Rectangle'</title>
+</g>
+</svg>

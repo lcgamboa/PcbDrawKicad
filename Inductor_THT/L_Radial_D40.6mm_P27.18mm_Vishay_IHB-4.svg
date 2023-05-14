@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="41.38559067131289mm" height="41.41852305571833mm" viewBox="0 0 41.38559067131289 41.41852305571833" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Shape2DView" transform="translate(7.069850,20.709262) scale(1,-1)">
+<circle cx="13.59" cy="0.0" r="2.225" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="13.59" cy="0.0" r="20.32" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="13.59" cy="0.0" r="2.225" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="13.59" cy="0.0" r="20.32" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="13.59" cy="0.0" r="2.725" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="13.59" cy="0.0" r="19.82" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Shape2DView_nwe0006"  d="M 15.815000000000001 0.0 L 15.81814389505338 0.0 L 15.82753604390909 0.0 L 15.843058334845818 0.0 L 15.86451556604879 0.0 L 15.89163790038586 0.0 L 15.924084258765987 0.0 L 15.961446609406728 0.0 L 16.003255099070635 0.0 L 16.048983961742334 0.0 L 16.09805813044122 0.0 L 16.149860469022418 0.0 L 16.203739533021842 0.0 L 16.259017761948346 0.0 L 16.315 0.0 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0007"  d="M 33.91 0.0 L 33.90685610494662 0.0 L 33.89746395609091 0.0 L 33.88194166515418 0.0 L 33.86048443395121 0.0 L 33.83336209961414 0.0 L 33.800915741234014 0.0 L 33.76355339059327 0.0 L 33.721744900929366 0.0 L 33.676016038257664 0.0 L 33.62694186955878 0.0 L 33.57513953097758 0.0 L 33.521260466978156 0.0 L 33.46598223805165 0.0 L 33.41 0.0 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Shape2DView'</title>
+</g>
+<g id="Rectangle" transform="translate(7.069850,20.709262) scale(1,-1)">
+<rect fill="#ff0000" id="origin" width="1" height="1" x="0" y="0" />
+<title>b'Rectangle'</title>
+</g>
+</svg>

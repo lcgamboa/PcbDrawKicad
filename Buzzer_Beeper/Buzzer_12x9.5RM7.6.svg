@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="12.220154725781367mm" height="12.229878855034942mm" viewBox="0 0 12.220154725781367 12.229878855034942" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Shape2DView" transform="translate(2.300349,6.114939) scale(1,-1)">
+<circle cx="3.8" cy="-8.91040357515e-35" r="6.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="3.8" cy="0.0" r="1.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="3.8" cy="-8.91040357515e-35" r="6.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="3.8" cy="0.0" r="4.518518518519" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Shape2DView_nwe0004"  d="M 9.799999999999999 -8.910403575149999e-35 L 9.790684755397399 -7.912754906989654e-35 L 9.762856166195306 -6.927652249680665e-35 L 9.71686419304946 -5.967483840708569e-35 L 9.653287211707335 -5.044324354918876e-35 L 9.572924739597532 -4.169783058475003e-35 L 9.476787381434223 -3.3548578156004117e-35 L 9.366084120276508 -2.609796784054887e-35 L 9.242207113864971 -1.943969538604595e-35 L 9.106714187430352 -1.3657492431830402e-35 L 8.961309243137395 -8.824073534963784e-36 L 8.807820832526495 -5.000221742489158e-36 L 8.648179161417136 -2.2340242093473737e-36 L 8.484391816449772 -5.6026747450289735e-37 L 8.318518518519 -3.266118475732663e-47 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Shape2DView'</title>
+</g>
+<g id="Rectangle" transform="translate(2.300349,6.114939) scale(1,-1)">
+<rect fill="#ff0000" id="origin" width="1" height="1" x="0" y="0" />
+<title>b'Rectangle'</title>
+</g>
+</svg>

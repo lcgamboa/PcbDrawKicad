@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="11.250600000000002mm" height="2.7606000000000037mm" viewBox="0 0 11.250600000000002 2.7606000000000037" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Shape2DView" transform="translate(10.140300,1.380300) scale(1,-1)">
+<path id="Shape2DView_nwe0000"  d="M -1.52 -1.27 L -10.03 -1.2700000000000038 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0001"  d="M -10.03 -1.27 L -10.030000000000001 1.27 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0002"  d="M -1.52 1.27 L -10.03 1.2699999999999962 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0003"  d="M -1.52 -1.27 L -1.5200000000000011 1.27 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0004"  d="M -0.2 0.3 L -1.5200000000000007 0.2999999999999994 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0005"  d="M -1.5200000000000005 -0.2999999999999999 L -0.19999999999999996 -0.2999999999999993 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0006"  d="M -0.19999999999999993 0.3 L -0.16641065716900758 0.3 L -0.13324371981310562 0.30000000000000004 L -0.10091628141344981 0.30000000000000004 L -0.0698348782647325 0.30000000000000004 L -0.040390377045398995 0.30000000000000004 L -0.012953059442379955 0.30000000000000004 L 0.012132034355964272 0.3000000000000001 L 0.03454944474040894 0.3000000000000001 L 0.05401725976848526 0.3000000000000001 L 0.07029066037072573 0.3000000000000001 L 0.0831649990925103 0.3000000000000001 L 0.09247837365454703 0.3000000000000001 L 0.09811366296797275 0.3000000000000001 L 0.09999999999999998 0.3000000000000001 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0007"  d="M -0.19999999999999993 -0.3 L -0.16641065716900758 -0.3 L -0.13324371981310562 -0.29999999999999993 L -0.10091628141344981 -0.29999999999999993 L -0.0698348782647325 -0.29999999999999993 L -0.040390377045398995 -0.29999999999999993 L -0.012953059442379955 -0.29999999999999993 L 0.012132034355964272 -0.2999999999999999 L 0.03454944474040894 -0.2999999999999999 L 0.05401725976848526 -0.2999999999999999 L 0.07029066037072573 -0.2999999999999999 L 0.0831649990925103 -0.2999999999999999 L 0.09247837365454703 -0.2999999999999999 L 0.09811366296797275 -0.2999999999999999 L 0.09999999999999998 -0.2999999999999999 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0008"  d="M 0.1 -0.3 L 0.09999999999999974 0.3 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0009"  d="M -0.2 -0.3 L -0.2000000000000003 0.3 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Shape2DView'</title>
+</g>
+<g id="Rectangle" transform="translate(10.140300,1.380300) scale(1,-1)">
+<rect fill="#ff0000" id="origin" width="1" height="1" x="0" y="0" />
+<title>b'Rectangle'</title>
+</g>
+</svg>

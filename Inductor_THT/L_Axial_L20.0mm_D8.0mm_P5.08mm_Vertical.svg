@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="9.719032282408218mm" height="8.177862618668527mm" viewBox="0 0 9.719032282408218 8.177862618668527" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Shape2DView" transform="translate(4.095285,4.088931) scale(1,-1)">
+<path id="Shape2DView_nwe0000"  d="M 3.9746068988014396 -0.44999999999999457 A 4 4 0 1 0 3.97461 0.45" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<circle cx="0.0" cy="8.933013600731e-15" r="0.45" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Shape2DView_nwe0002"  d="M -1.5360136568323856e-14 0.45000000000000534 A 0.45 0.45 0 0 1 1.43058e-14 -0.45" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0003"  d="M 5.080000002050191 -0.4499999999999947 A 0.45 0.45 0 1 1 4.63 5.47219e-15" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0005"  d="M 0.899987340266 -0.4499999999999945 A 0.45 6.329867076765435e-06 -90.0 0 1 0.899987340266 0.4500000000000055 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0006"  d="M 4.18 0.4500000000000055 L 4.18 0.43871756048182614 L 4.18 0.4054359905560942 L 4.18 0.35182416711061903 L 4.18 0.2805704108364357 L 4.18 0.19524768260290679 L 4.18 0.10013442028034714 L 4.18 5.661735380318881e-15 L 4.18 -0.10013442028033583 L 4.18 -0.19524768260289552 L 4.18 -0.2805704108364245 L 4.18 -0.3518241671106078 L 4.18 -0.40543599055608304 L 4.18 -0.43871756048181515 L 4.18 -0.4499999999999945 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0007"  d="M 0.8999873402661535 -0.44999999999999446 Q 0.08001261529999282 -0.4499999999999945 1.432187701766452e-14 -0.4499999999999947 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0008"  d="M 0.8999873402661535 0.45000000000000556 Q 0.08001320614478236 0.4500000000000056 -1.5432100042289676e-14 0.45000000000000534 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0009"  d="M 0.8999873402638479 -0.4499999999999945 L 4.18 -0.4499999999999945 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0010"  d="M 0.8999873402638479 0.4500000000000055 L 4.18 0.4500000000000055 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0011"  d="M 4.18 0.45000000000000556 Q 4.9999875085465435 0.45000000000000906 5.079999934718495 0.45000000000000057 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0012"  d="M 4.18 -0.44999999999999446 Q 4.999962255545654 -0.4499999999999945 5.079999999969292 -0.4499999999999947 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Shape2DView'</title>
+</g>
+<g id="Rectangle" transform="translate(4.095285,4.088931) scale(1,-1)">
+<rect fill="#ff0000" id="origin" width="1" height="1" x="0" y="0" />
+<title>b'Rectangle'</title>
+</g>
+</svg>
